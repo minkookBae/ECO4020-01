@@ -3,5 +3,5 @@
 
 ## How to show
 ```
-git clone https://github.com/minkookBae/ECO4020-01
+git clone https://github.com/minkookBae/ECO4020-01.git
 ```
